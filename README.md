@@ -1,2 +1,12 @@
-# GrassClaw
-GrassClaw is a playful OpenClaw AI assistant that reminds crypto users to take breaks and touch grass 🌱, promoting a healthier and balanced lifestyle while engaging with Binance ecosystem. It’s a mix of fun, utility, and Web3 vibes
+# GrassClaw AI 🌱
+
+A fun AI assistant that monitors trading behavior, calculates a "GrassScore", and reminds traders to step away from charts and **touch grass**. 
+
+---
+
+## Features
+- Generates random trading behavior stats (trades, loss streak, leverage)
+- Calculates a fun **GrassScore**
+- Outputs recommendations to **step away from charts**
+- Designed for fun, educational, and demo purposes
+- Works as a terminal-based AI assistant
