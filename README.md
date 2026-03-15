@@ -12,6 +12,7 @@ A fun AI assistant that monitors trading behavior, calculates a "GrassScore", an
 - Works as a terminal-based AI assistant
 - 
 How It Works
+
 GrassClaw simulates trading behavior and evaluates whether a trader might benefit from stepping away from the charts.
 
 The assistant analyzes three key indicators of trading activity:
